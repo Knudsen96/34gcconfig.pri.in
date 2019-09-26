@@ -1,0 +1,1 @@
+# 34gcconfig.pri.in
